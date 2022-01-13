@@ -38,7 +38,7 @@ assetsSummary:
   - ProcessingModule
 citation: 'Churchland, Mark; Kaufman, Matthew (2022) MC_Maze_Large: macaque primary
   motor and dorsal premotor cortex spiking activity during delayed reaching (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000138/draft'
+  0.220113.0407) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000138/0.220113.0407'
 contributor:
 - affiliation: []
   email: felp8484@gmail.com
@@ -77,6 +77,7 @@ contributor:
   - dcite:DataCollector
   schemaKey: Person
 dateCreated: '2021-09-02T20:21:22.271044+00:00'
+datePublished: '2022-01-13T04:07:58.448657+00:00'
 description: 'This dataset contains sorted unit spiking times and behavioral data
   from a macaque performing a delayed reaching task. The experimental task was a center-out
   reaching task with obstructing barriers forming a maze, resulting in a variety of
@@ -86,8 +87,9 @@ description: 'This dataset contains sorted unit spiking times and behavioral dat
   velocity was calculated offline from hand position. The provided data has been limited
   to 500 train trials and 100 test trials. Provided as part of the Neural Latents
   Benchmark: https://neurallatents.github.io.'
+doi: 10.48324/dandi.000138/0.220113.0407
 ethicsApproval: []
-id: DANDI:000138/draft
+id: DANDI:000138/0.220113.0407
 identifier: DANDI:000138
 keywords:
 - Neural Latents Benchmark
@@ -95,10 +97,22 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000138/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000138/0.220113.0407/assets.yaml
 name: 'MC_Maze_Large: macaque primary motor and dorsal premotor cortex spiking activity
   during delayed reaching'
 protocol: []
+publishedBy:
+  endDate: '2022-01-13T04:07:58.448657+00:00'
+  id: urn:uuid:2a33ee75-12ed-4dac-878b-a553bec8d035
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-01-13T04:07:58.448657+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:4b20b910-7f98-49c5-a0c0-9b6f454257fb
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: 10.1016/j.neuron.2010.09.015
   name: 'Cortical preparatory activity: representation of movement or first cog in
@@ -117,6 +131,6 @@ repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000138/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000138/0.220113.0407
+version: 0.220113.0407
 wasGeneratedBy: []
