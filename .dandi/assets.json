@@ -5,7 +5,7 @@
 "blob":
 "d78a051b-669f-4b7c-bcb6-769f106afb1c",
 "created":
-"2021-09-02T20:29:21.269610+00:00",
+"2021-09-02T20:29:21.269610Z",
 "metadata":
 {
 "@context":
@@ -185,7 +185,7 @@
 ]
 },
 "modified":
-"2021-09-02T20:29:21.312882+00:00",
+"2021-09-02T20:29:21.312882Z",
 "path":
 "sub-Jenkins/sub-Jenkins_ses-large_desc-test_ecephys.nwb",
 "size":
@@ -197,7 +197,7 @@
 "blob":
 "c7549202-993a-42a0-b8b3-27635e053d60",
 "created":
-"2021-09-02T20:29:21.575839+00:00",
+"2021-09-02T20:29:21.575839Z",
 "metadata":
 {
 "@context":
@@ -389,7 +389,7 @@
 ]
 },
 "modified":
-"2021-09-02T20:29:21.603954+00:00",
+"2021-09-02T20:29:21.603954Z",
 "path":
 "sub-Jenkins/sub-Jenkins_ses-large_desc-train_behavior+ecephys.nwb",
 "size":
